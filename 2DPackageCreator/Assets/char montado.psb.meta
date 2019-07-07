@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: 9b541a4b1470a1c46a5bcb440e2b6ba6
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 1
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: "CABE\xC7A"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1446
+      width: 324
+      height: 339
+    spriteID: 32f83537e948dff4cac6c9e8233c0d1c
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -280, y: -423}
+  - name: "M\xC3O DIR"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 350
+      y: 1786
+      width: 177
+      height: 148
+    spriteID: 157c38229a5a1314ba11ef66d43618d5
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 202, y: 730}
+  - name: "ANTEBRA\xC7O DIR"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 641
+      y: 1083
+      width: 147
+      height: 384
+    spriteID: 191056562dec8a9438636ee55cbd08ea
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 570, y: -68}
+  - name: "BRA\xC7O DIR"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 350
+      y: 1354
+      width: 225
+      height: 424
+    spriteID: 37bcee4fd28e31b4697262401eb255af
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 264, y: -80}
+  - name: "P\xC9 DIR"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1793
+      width: 288
+      height: 150
+    spriteID: 13e9a97f6af13b041a381afa401aa6e1
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -172, y: 1732}
+  - name: PERNA DIR
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 350
+      y: 686
+      width: 278
+      height: 660
+    spriteID: 830941e4e771b7b4eb8376938d285097
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 163, y: 610}
+  - name: COXA DIR
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 641
+      y: 4
+      width: 299
+      height: 607
+    spriteID: 51d399e064edb2a4c955999d2ac7760a
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 487, y: -594}
+  - name: PELVIS
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 948
+      y: 4
+      width: 322
+      height: 291
+    spriteID: 075d32ab71436164b9c15adb48ec98a3
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 777, y: -1038}
+  - name: "P\xC9 ESQ"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 948
+      y: 303
+      width: 288
+      height: 150
+    spriteID: daf61f87e1bd9de42b57b48f3b7aab3b
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 586, y: 242}
+  - name: PERNA ESQ
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 350
+      y: 4
+      width: 283
+      height: 674
+    spriteID: 6569f747166ff284abddd5133ba2116f
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -8, y: -61}
+  - name: COXA ESQ
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 836
+      width: 327
+      height: 602
+    spriteID: f6867c9e894e5e64a96d284a3fcbd06b
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -176, y: 214}
+  - name: TORSO
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 338
+      height: 824
+    spriteID: f6254b426ca21c242a6221e28173f124
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -175, y: -1199}
+  - name: "M\xC3O ESQ"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 948
+      y: 461
+      width: 176
+      height: 148
+    spriteID: 3a5d817d9eada9642889d0b3519304c2
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 483, y: -598}
+  - name: "ANTEBRA\xC7O ESQ"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 641
+      y: 1475
+      width: 137
+      height: 386
+    spriteID: 6a207417498fa4d4886d0e1afab1c575
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 225, y: 318}
+  - name: "BRA\xC7O ESQ"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 641
+      y: 619
+      width: 178
+      height: 456
+    spriteID: 2c52266d084fc534a83465d858be7a9e
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 288, y: -748}
+  platformSettings: []
+  mosaicLayers: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  importedTextureWidth: 2048
+  importedTextureHeight: 2048
+  documentSize: {x: 791, y: 2264}
+  textureActualWidth: 2048
+  textureActualHeight: 2048
+  spritePackingTag: 
+  resliceFromLayer: 0
+  characterMode: 1
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: "CABE\xC7A"
+    spriteName: "CABE\xC7A"
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 32f83537e948dff4cac6c9e8233c0d1c
+    layerID: 473
+    mosaicPosition: {x: 4, y: 1446}
+  - name: "M\xC3O DIR"
+    spriteName: "M\xC3O DIR"
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 157c38229a5a1314ba11ef66d43618d5
+    layerID: 475
+    mosaicPosition: {x: 350, y: 1786}
+  - name: "ANTEBRA\xC7O DIR"
+    spriteName: "ANTEBRA\xC7O DIR"
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 191056562dec8a9438636ee55cbd08ea
+    layerID: 477
+    mosaicPosition: {x: 641, y: 1083}
+  - name: "BRA\xC7O DIR"
+    spriteName: "BRA\xC7O DIR"
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 37bcee4fd28e31b4697262401eb255af
+    layerID: 479
+    mosaicPosition: {x: 350, y: 1354}
+  - name: "P\xC9 DIR"
+    spriteName: "P\xC9 DIR"
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 13e9a97f6af13b041a381afa401aa6e1
+    layerID: 481
+    mosaicPosition: {x: 4, y: 1793}
+  - name: PERNA DIR
+    spriteName: PERNA DIR
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 830941e4e771b7b4eb8376938d285097
+    layerID: 483
+    mosaicPosition: {x: 350, y: 686}
+  - name: COXA DIR
+    spriteName: COXA DIR
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 51d399e064edb2a4c955999d2ac7760a
+    layerID: 485
+    mosaicPosition: {x: 641, y: 4}
+  - name: PELVIS
+    spriteName: PELVIS
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 075d32ab71436164b9c15adb48ec98a3
+    layerID: 487
+    mosaicPosition: {x: 948, y: 4}
+  - name: "P\xC9 ESQ"
+    spriteName: "P\xC9 ESQ"
+    isGroup: 0
+    parentIndex: -1
+    spriteID: daf61f87e1bd9de42b57b48f3b7aab3b
+    layerID: 489
+    mosaicPosition: {x: 948, y: 303}
+  - name: PERNA ESQ
+    spriteName: PERNA ESQ
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 6569f747166ff284abddd5133ba2116f
+    layerID: 491
+    mosaicPosition: {x: 350, y: 4}
+  - name: COXA ESQ
+    spriteName: COXA ESQ
+    isGroup: 0
+    parentIndex: -1
+    spriteID: f6867c9e894e5e64a96d284a3fcbd06b
+    layerID: 493
+    mosaicPosition: {x: 4, y: 836}
+  - name: TORSO
+    spriteName: TORSO
+    isGroup: 0
+    parentIndex: -1
+    spriteID: f6254b426ca21c242a6221e28173f124
+    layerID: 495
+    mosaicPosition: {x: 4, y: 4}
+  - name: "M\xC3O ESQ"
+    spriteName: "M\xC3O ESQ"
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 3a5d817d9eada9642889d0b3519304c2
+    layerID: 497
+    mosaicPosition: {x: 948, y: 461}
+  - name: "ANTEBRA\xC7O ESQ"
+    spriteName: "ANTEBRA\xC7O ESQ"
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 6a207417498fa4d4886d0e1afab1c575
+    layerID: 499
+    mosaicPosition: {x: 641, y: 1475}
+  - name: "BRA\xC7O ESQ"
+    spriteName: "BRA\xC7O ESQ"
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 2c52266d084fc534a83465d858be7a9e
+    layerID: 501
+    mosaicPosition: {x: 641, y: 619}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+  boneGOs: []
+  generateGOHierarchy: 0
+  textureAssetName: char montado
+  prefabAssetName: char montado_GO
