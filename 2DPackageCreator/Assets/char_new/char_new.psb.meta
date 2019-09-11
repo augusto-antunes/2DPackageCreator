@@ -101,9 +101,9 @@ ScriptedImporter:
     internalID: 0
     spriteBone:
     - name: Perna_Direita
-      position: {x: 33.23047, y: 248.23376, z: 0}
-      rotation: {x: 0, y: 0, z: 0.6784668, w: -0.7346311}
-      length: 238.84862
+      position: {x: 33.23242, y: 248.23413, z: 0}
+      rotation: {x: 0, y: 0, z: 0.6784672, w: -0.73463076}
+      length: 238.84836
       parentId: -1
     spriteOutline: []
     vertices:
@@ -1821,19 +1821,19 @@ ScriptedImporter:
     internalID: 0
     spriteBone:
     - name: Pe_Esquerdo_1
-      position: {x: 245.53485, y: -0.00009113637, z: 0}
-      rotation: {x: 0, y: 0, z: 0.015352753, w: 0.9998822}
-      length: 25.128292
+      position: {x: 245.53429, y: -0.0001225114, z: 0}
+      rotation: {x: 0, y: 0, z: 0.015344977, w: 0.9998823}
+      length: 25.12804
       parentId: 1
     - name: Perna_Esquerda
-      position: {x: 250.34428, y: 0.00019992478, z: 0}
-      rotation: {x: 0, y: 0, z: 0.027186371, w: 0.99963045}
-      length: 245.5345
+      position: {x: 302.98044, y: 0.0006217091, z: 0}
+      rotation: {x: 0, y: 0, z: 0.033869635, w: 0.9994263}
+      length: 245.53424
       parentId: 2
     - name: Coxa_Esquerda
-      position: {x: 9.3376465, y: 502.91272, z: 0}
-      rotation: {x: 0, y: 0, z: -0.68673885, w: 0.72690433}
-      length: 250.34451
+      position: {x: 10.394775, y: 555.66797, z: 0}
+      rotation: {x: 0, y: 0, z: -0.691584, w: 0.72229606}
+      length: 302.98044
       parentId: -1
     spriteOutline: []
     vertices:
@@ -3561,9 +3561,9 @@ ScriptedImporter:
     internalID: 0
     spriteBone:
     - name: bone_4
-      position: {x: 59.575684, y: -79.927, z: 0}
-      rotation: {x: 0, y: 0, z: 0.70710546, w: 0.70710814}
-      length: 146.95886
+      position: {x: 60.28369, y: -49.493896, z: 0}
+      rotation: {x: 0, y: 0, z: 0.7093749, w: 0.7048315}
+      length: 116.52729
       parentId: -1
     spriteOutline: []
     vertices:
@@ -4405,9 +4405,9 @@ ScriptedImporter:
     internalID: 0
     spriteBone:
     - name: bone_4
-      position: {x: -0.4243164, y: -6.927002, z: 0}
-      rotation: {x: 0, y: 0, z: 0.70710546, w: 0.70710814}
-      length: 146.95886
+      position: {x: 0.2836914, y: 23.506104, z: 0}
+      rotation: {x: 0, y: 0, z: 0.7093749, w: 0.7048315}
+      length: 116.52729
       parentId: -1
     spriteOutline: []
     vertices:
@@ -4764,9 +4764,9 @@ ScriptedImporter:
     internalID: 0
     spriteBone:
     - name: bone_4
-      position: {x: 50.575684, y: 18.072998, z: 0}
-      rotation: {x: 0, y: 0, z: 0.70710546, w: 0.70710814}
-      length: 146.95886
+      position: {x: 51.28369, y: 48.506104, z: 0}
+      rotation: {x: 0, y: 0, z: 0.7093749, w: 0.7048315}
+      length: 116.52729
       parentId: -1
     spriteOutline: []
     vertices:
@@ -5905,9 +5905,9 @@ ScriptedImporter:
     internalID: 0
     spriteBone:
     - name: Braco_Esquerdo
-      position: {x: 33.05298, y: 103.8114, z: 0}
-      rotation: {x: 0, y: 0, z: -0.64729846, w: 0.76223665}
-      length: 186.50595
+      position: {x: 5.5283203, y: 114.671875, z: 0}
+      rotation: {x: 0, y: 0, z: -0.5968214, w: 0.8023741}
+      length: 205.77144
       parentId: -1
     spriteOutline: []
     vertices:
@@ -6626,9 +6626,9 @@ ScriptedImporter:
     internalID: 0
     spriteBone:
     - name: Mao_Esquerda
-      position: {x: 71.654785, y: 90.14673, z: 0}
-      rotation: {x: 0, y: 0, z: -0.87622595, w: 0.4819006}
-      length: 66.679405
+      position: {x: 71.64624, y: 90.14514, z: 10}
+      rotation: {x: 0, y: 0, z: -0.8762265, w: 0.4818995}
+      length: 66.67942
       parentId: -1
     spriteOutline: []
     vertices:
@@ -7343,7 +7343,7 @@ ScriptedImporter:
         boneIndex2: 0
         boneIndex3: 0
     spritePhysicsOutline: []
-    indices: 4300000039000000380000000b0000000a00000045000000100000000f000000450000004500000011000000100000001100000045000000120000000e000000450000000f0000000d0000000b0000000e0000000b0000000d0000000c0000000e0000000b0000004500000044000000460000004200000046000000450000004200000008000000420000000900000009000000420000000a000000450000000a00000042000000070000004300000042000000080000000700000042000000130000001200000045000000220000004100000023000000410000001300000045000000200000004100000021000000130000004100000014000000410000001a000000170000001a00000019000000170000001800000017000000190000001a000000410000001b0000001700000016000000410000001500000041000000160000004100000015000000140000001c0000001b000000410000001c000000410000001d000000410000001f0000001e0000001e0000001d000000410000001f000000410000002000000046000000410000004500000022000000210000004100000043000000070000000600000046000000240000004100000043000000060000000500000032000000310000002f0000003b000000430000003c000000400000003e0000003d00000044000000420000004300000002000000010000003d00000043000000030000003c000000020000003d0000003c00000001000000400000003d000000400000000100000000000000400000003f0000003e000000440000003800000037000000360000004400000037000000350000002e00000036000000350000003400000032000000430000003a00000039000000430000003b0000003a00000044000000430000003800000031000000300000002f000000020000003c000000030000003200000034000000330000002e0000004400000036000000230000004100000024000000440000002a00000046000000240000004600000025000000250000004600000026000000460000002700000026000000440000002b0000002a0000002800000046000000290000004600000028000000270000002a00000029000000460000002e000000350000002f000000440000002e0000002d0000002c0000002b000000440000002d0000002c0000004400000035000000320000002f000000430000000500000004000000040000000300000043000000
+    indices: 430000003900000038000000430000003b0000003a000000430000003a00000039000000350000003400000032000000350000002e00000036000000360000004400000037000000440000003800000037000000400000003f0000003e00000040000000010000000000000001000000400000003d000000020000003d0000003c00000043000000030000003c00000002000000010000003d000000440000004200000043000000400000003e0000003d0000003b000000430000003c00000044000000430000003800000032000000310000002f00000031000000300000002f00000032000000340000003300000035000000320000002f0000002d0000002c000000440000002c0000002b00000044000000440000002e0000002d0000002e000000350000002f0000002a0000002900000046000000460000002800000027000000280000004600000029000000440000002b0000002a000000460000002700000026000000250000004600000026000000240000004600000025000000440000002a000000460000002300000041000000240000002e0000004400000036000000020000003c00000003000000430000000500000004000000430000000600000005000000430000000700000006000000080000000700000042000000070000004300000042000000450000000a0000004200000009000000420000000a0000000800000042000000090000004600000045000000420000004400000046000000420000000e0000000b000000450000000b0000000d0000000c0000000d0000000b0000000e0000000e000000450000000f000000110000004500000012000000450000001100000010000000100000000f000000450000000b0000000a000000450000001300000012000000450000004600000024000000410000002200000041000000230000002000000041000000210000002200000021000000410000004600000041000000450000001f00000041000000200000001e0000001d00000041000000410000001f0000001e0000001c000000410000001d0000001c0000001b000000410000004100000015000000140000001500000041000000160000001700000016000000410000001a000000410000001b0000001800000017000000190000001a0000001900000017000000410000001a00000017000000130000004100000014000000410000001300000045000000040000000300000043000000
     edges:
     - {x: 0, y: 1}
     - {x: 2, y: 1}
@@ -7428,9 +7428,9 @@ ScriptedImporter:
     internalID: 0
     spriteBone:
     - name: Antebraco_Esquerdo
-      position: {x: 41.2688, y: 132.76941, z: 0}
-      rotation: {x: 0, y: 0, z: -0.7365649, w: 0.676367}
-      length: 113.03227
+      position: {x: 42.709717, y: 130.59473, z: 0}
+      rotation: {x: 0, y: 0, z: -0.7415083, w: 0.67094374}
+      length: 111.00221
       parentId: -1
     spriteOutline: []
     vertices:
@@ -8435,9 +8435,9 @@ ScriptedImporter:
     internalID: 0
     spriteBone:
     - name: Braco_Esquerdo
-      position: {x: 65.05298, y: 217.8114, z: 0}
-      rotation: {x: 0, y: 0, z: -0.64729846, w: 0.76223665}
-      length: 186.50595
+      position: {x: 37.52832, y: 228.67188, z: 0}
+      rotation: {x: 0, y: 0, z: -0.5968214, w: 0.8023741}
+      length: 205.77144
       parentId: -1
     spriteOutline: []
     vertices:
@@ -10047,8 +10047,8 @@ ScriptedImporter:
       parentId: 0
     - name: "Pesco\xE7o"
       position: {x: 173.05978, y: -0.00008792393, z: 0}
-      rotation: {x: 0, y: 0, z: -0.003970572, w: 0.99999213}
-      length: 63.17859
+      rotation: {x: 0, y: 0, z: -0.0077531487, w: 0.99996996}
+      length: 93.61425
       parentId: 1
     spriteOutline: []
     vertices:
@@ -12623,8 +12623,8 @@ ScriptedImporter:
       parentId: 0
     - name: "Pesco\xE7o"
       position: {x: 173.05994, y: -0.000037359958, z: 0}
-      rotation: {x: 0, y: 0, z: -0.003970572, w: 0.99999213}
-      length: 63.17859
+      rotation: {x: 0, y: 0, z: -0.0077531487, w: 0.99996996}
+      length: 93.61425
       parentId: 1
     spriteOutline: []
     vertices:
@@ -15297,8 +15297,8 @@ ScriptedImporter:
       parentId: 0
     - name: "Pesco\xE7o"
       position: {x: 173.05977, y: 0.000093792005, z: 0}
-      rotation: {x: 0, y: 0, z: -0.003970572, w: 0.99999213}
-      length: 63.17859
+      rotation: {x: 0, y: 0, z: -0.0077531487, w: 0.99996996}
+      length: 93.61425
       parentId: 1
     spriteOutline: []
     vertices:
@@ -17926,8 +17926,8 @@ ScriptedImporter:
       parentId: 0
     - name: "Pesco\xE7o"
       position: {x: 173.05977, y: -0.00019058361, z: 0}
-      rotation: {x: 0, y: 0, z: -0.003970572, w: 0.99999213}
-      length: 63.17859
+      rotation: {x: 0, y: 0, z: -0.0077531487, w: 0.99996996}
+      length: 93.61425
       parentId: 1
     spriteOutline: []
     vertices:
@@ -20544,24 +20544,24 @@ ScriptedImporter:
     internalID: 0
     spriteBone:
     - name: Pe_Esquerdo_2
-      position: {x: 25.128304, y: 0.0000004939675, z: 0}
-      rotation: {x: 0, y: 0, z: -0.6908265, w: 0.7230206}
-      length: 69.92855
+      position: {x: 25.127974, y: -0.0000933052, z: 0}
+      rotation: {x: 0, y: 0, z: -0.69082075, w: 0.72302616}
+      length: 69.928535
       parentId: 1
     - name: Pe_Esquerdo_1
-      position: {x: 245.53447, y: -0.000029501414, z: 0}
-      rotation: {x: 0, y: 0, z: 0.015352758, w: 0.99988216}
-      length: 25.128292
+      position: {x: 245.5342, y: -0.000095636206, z: 0}
+      rotation: {x: 0, y: 0, z: 0.015344982, w: 0.9998823}
+      length: 25.128038
       parentId: 2
     - name: Perna_Esquerda
-      position: {x: 106.552246, y: 293.9721, z: 0}
-      rotation: {x: 0, y: 0, z: -0.66672313, w: 0.7453056}
-      length: 245.53452
+      position: {x: 106.55176, y: 293.97333, z: 0}
+      rotation: {x: 0, y: 0, z: -0.6667233, w: 0.74530536}
+      length: 245.53424
       parentId: -1
     - name: Pe_Esquerdo_3
-      position: {x: 69.928474, y: 0.000049181086, z: 0}
-      rotation: {x: 0, y: 0, z: -0.09357831, w: 0.99561197}
-      length: 47.38206
+      position: {x: 69.92846, y: 0.00010544421, z: 0}
+      rotation: {x: 0, y: 0, z: -0.09357758, w: 0.995612}
+      length: 47.382057
       parentId: 0
     spriteOutline: []
     vertices:
@@ -21563,24 +21563,24 @@ ScriptedImporter:
     internalID: 0
     spriteBone:
     - name: Pe_Direito_1
-      position: {x: 238.84854, y: -0.00006623894, z: 0}
-      rotation: {x: 0, y: 0, z: -0.09811564, w: 0.99517506}
-      length: 20.276243
+      position: {x: 238.84824, y: 0.000009317217, z: 0}
+      rotation: {x: 0, y: 0, z: -0.09811524, w: 0.99517506}
+      length: 20.27624
       parentId: 1
     - name: Perna_Direita
-      position: {x: 116.23047, y: 289.23376, z: 0}
-      rotation: {x: 0, y: 0, z: 0.6784668, w: -0.7346311}
-      length: 238.84862
+      position: {x: 116.23242, y: 289.23413, z: 0}
+      rotation: {x: 0, y: 0, z: 0.6784672, w: -0.73463076}
+      length: 238.84836
       parentId: -1
     - name: Pe_Direito_2
-      position: {x: 20.27619, y: 0.000027845877, z: 0}
-      rotation: {x: 0, y: 0, z: -0.54163665, w: 0.8406127}
-      length: 58.440727
+      position: {x: 20.276358, y: 0.00005804641, z: 0}
+      rotation: {x: 0, y: 0, z: -0.5416358, w: 0.84061325}
+      length: 58.44102
       parentId: 0
     - name: Pe_Direito_3
-      position: {x: 58.44078, y: 0.000003076042, z: 0}
-      rotation: {x: 0, y: 0, z: -0.15385197, w: 0.9880939}
-      length: 59.227776
+      position: {x: 58.44134, y: -0.000069163056, z: 0}
+      rotation: {x: 0, y: 0, z: -0.15385236, w: 0.9880939}
+      length: 59.227783
       parentId: 2
     spriteOutline: []
     vertices:
@@ -22582,9 +22582,9 @@ ScriptedImporter:
     internalID: 0
     spriteBone:
     - name: Braco_Direito
-      position: {x: 55.073242, y: 125.184814, z: 0}
-      rotation: {x: 0, y: 0, z: 0.7367565, w: -0.67615825}
-      length: 176.44885
+      position: {x: 79.68945, y: 132.42456, z: 0}
+      rotation: {x: 0, y: 0, z: 0.77601177, w: -0.6307185}
+      length: 194.38574
       parentId: -1
     spriteOutline: []
     vertices:
@@ -23315,9 +23315,9 @@ ScriptedImporter:
     internalID: 0
     spriteBone:
     - name: Coxa_Direita
-      position: {x: 24.865967, y: 286.59473, z: 0}
-      rotation: {x: 0, y: 0, z: 0.69505554, w: -0.7189561}
-      length: 247.50238
+      position: {x: 26.965576, y: 343.42688, z: 0}
+      rotation: {x: 0, y: 0, z: 0.6997869, w: -0.7143518}
+      length: 304.25735
       parentId: -1
     spriteOutline: []
     vertices:
@@ -25579,9 +25579,9 @@ ScriptedImporter:
     internalID: 0
     spriteBone:
     - name: Mao_Direita
-      position: {x: 22.339355, y: 94.0271, z: 0}
-      rotation: {x: 0, y: 0, z: 0.4986894, w: -0.86678076}
-      length: 68.31418
+      position: {x: 22.331787, y: 94.02722, z: 0}
+      rotation: {x: 0, y: 0, z: 0.4986901, w: -0.86678034}
+      length: 68.3142
       parentId: -1
     spriteOutline: []
     vertices:
@@ -26371,9 +26371,9 @@ ScriptedImporter:
     internalID: 0
     spriteBone:
     - name: Antebraco_Direito
-      position: {x: 42.965576, y: 138.38403, z: 0}
-      rotation: {x: 0, y: 0, z: 0.7032528, w: -0.7109399}
-      length: 126.364426
+      position: {x: 42.95923, y: 131.14233, z: 0}
+      rotation: {x: 0, y: 0, z: 0.7030213, w: -0.7111689}
+      length: 119.12302
       parentId: -1
     spriteOutline: []
     vertices:
@@ -27368,9 +27368,9 @@ ScriptedImporter:
     internalID: 0
     spriteBone:
     - name: bone_4
-      position: {x: 2133.5757, y: 670.073, z: 0}
-      rotation: {x: 0, y: 0, z: 0.70710546, w: 0.70710814}
-      length: 146.95886
+      position: {x: 2134.2837, y: 700.5061, z: 0}
+      rotation: {x: 0, y: 0, z: 0.7093749, w: 0.7048315}
+      length: 116.52729
       parentId: -1
     spriteOutline: []
     vertices:
@@ -28529,9 +28529,9 @@ ScriptedImporter:
     internalID: 0
     spriteBone:
     - name: bone_4
-      position: {x: 2262.5757, y: -372.927, z: 0}
-      rotation: {x: 0, y: 0, z: 0.70710546, w: 0.70710814}
-      length: 146.95886
+      position: {x: 2263.2837, y: -342.4939, z: 0}
+      rotation: {x: 0, y: 0, z: 0.7093749, w: 0.7048315}
+      length: 116.52729
       parentId: -1
     spriteOutline: []
     vertices:
@@ -29690,9 +29690,9 @@ ScriptedImporter:
     internalID: 0
     spriteBone:
     - name: Braco_Direito
-      position: {x: 2363.0732, y: 828.1848, z: 0}
-      rotation: {x: 0, y: 0, z: 0.7367565, w: -0.67615825}
-      length: 176.44885
+      position: {x: 2387.6895, y: 835.42456, z: 0}
+      rotation: {x: 0, y: 0, z: 0.77601177, w: -0.6307185}
+      length: 194.38574
       parentId: -1
     spriteOutline: []
     vertices:
@@ -31209,9 +31209,9 @@ ScriptedImporter:
     internalID: 0
     spriteBone:
     - name: Braco_Direito
-      position: {x: 1759.0732, y: -239.81519, z: 0}
-      rotation: {x: 0, y: 0, z: 0.7367565, w: -0.67615825}
-      length: 176.44885
+      position: {x: 1783.6895, y: -232.57544, z: 0}
+      rotation: {x: 0, y: 0, z: 0.77601177, w: -0.6307185}
+      length: 194.38574
       parentId: -1
     spriteOutline: []
     vertices:
@@ -32748,9 +32748,9 @@ ScriptedImporter:
     internalID: 0
     spriteBone:
     - name: Braco_Direito
-      position: {x: 47.073242, y: 210.18481, z: 0}
-      rotation: {x: 0, y: 0, z: 0.7367565, w: -0.67615825}
-      length: 176.44885
+      position: {x: 71.68945, y: 217.42456, z: 0}
+      rotation: {x: 0, y: 0, z: 0.77601177, w: -0.6307185}
+      length: 194.38574
       parentId: -1
     spriteOutline: []
     vertices:
@@ -34241,9 +34241,9 @@ ScriptedImporter:
     internalID: 0
     spriteBone:
     - name: Antebraco_Esquerdo
-      position: {x: 1700.2688, y: 690.7694, z: 0}
-      rotation: {x: 0, y: 0, z: -0.7365649, w: 0.676367}
-      length: 113.03227
+      position: {x: 1701.7097, y: 688.5947, z: 0}
+      rotation: {x: 0, y: 0, z: -0.7415083, w: 0.67094374}
+      length: 111.00221
       parentId: -1
     spriteOutline: []
     vertices:
@@ -35218,9 +35218,9 @@ ScriptedImporter:
     internalID: 0
     spriteBone:
     - name: Braco_Esquerdo
-      position: {x: 1875.053, y: 734.8114, z: 0}
-      rotation: {x: 0, y: 0, z: -0.64729846, w: 0.76223665}
-      length: 186.50595
+      position: {x: 1847.5283, y: 745.6719, z: 0}
+      rotation: {x: 0, y: 0, z: -0.5968214, w: 0.8023741}
+      length: 205.77144
       parentId: -1
     spriteOutline: []
     vertices:
@@ -36758,9 +36758,9 @@ ScriptedImporter:
     internalID: 0
     spriteBone:
     - name: Braco_Esquerdo
-      position: {x: 2688.053, y: -306.1886, z: 0}
-      rotation: {x: 0, y: 0, z: -0.64729846, w: 0.76223665}
-      length: 186.50595
+      position: {x: 2660.5283, y: -295.32812, z: 0}
+      rotation: {x: 0, y: 0, z: -0.5968214, w: 0.8023741}
+      length: 205.77144
       parentId: -1
     spriteOutline: []
     vertices:
@@ -38288,14 +38288,14 @@ ScriptedImporter:
     internalID: 0
     spriteBone:
     - name: Perna_Esquerda
-      position: {x: 250.34445, y: 0.00017537679, z: 0}
-      rotation: {x: 0, y: 0, z: 0.027186371, w: 0.99963045}
-      length: 245.5345
+      position: {x: 302.9804, y: 0.0006592908, z: 0}
+      rotation: {x: 0, y: 0, z: 0.033869635, w: 0.9994263}
+      length: 245.53424
       parentId: 1
     - name: Coxa_Esquerda
-      position: {x: 29.337646, y: 293.91272, z: 0}
-      rotation: {x: 0, y: 0, z: -0.68673885, w: 0.72690433}
-      length: 250.34451
+      position: {x: 30.394775, y: 346.66797, z: 0}
+      rotation: {x: 0, y: 0, z: -0.691584, w: 0.72229606}
+      length: 302.98044
       parentId: -1
     spriteOutline: []
     vertices:
@@ -40548,9 +40548,9 @@ ScriptedImporter:
     internalID: 0
     spriteBone:
     - name: Antebraco_Esquerdo
-      position: {x: 2799.2688, y: -663.2306, z: 0}
-      rotation: {x: 0, y: 0, z: -0.7365649, w: 0.676367}
-      length: 113.03227
+      position: {x: 2800.7097, y: -665.4053, z: 0}
+      rotation: {x: 0, y: 0, z: -0.7415083, w: 0.67094374}
+      length: 111.00221
       parentId: -1
     spriteOutline: []
     vertices:
@@ -41565,9 +41565,9 @@ ScriptedImporter:
     internalID: 0
     spriteBone:
     - name: Antebraco_Direito
-      position: {x: 2444.9656, y: 621.38403, z: 0}
-      rotation: {x: 0, y: 0, z: 0.7032528, w: -0.7109399}
-      length: 126.364426
+      position: {x: 2444.9592, y: 614.14233, z: 0}
+      rotation: {x: 0, y: 0, z: 0.7030213, w: -0.7111689}
+      length: 119.12302
       parentId: -1
     spriteOutline: []
     vertices:
@@ -42582,9 +42582,9 @@ ScriptedImporter:
     internalID: 0
     spriteBone:
     - name: Antebraco_Direito
-      position: {x: 1489.9656, y: -237.61597, z: 0}
-      rotation: {x: 0, y: 0, z: 0.7032528, w: -0.7109399}
-      length: 126.364426
+      position: {x: 1489.9592, y: -244.85767, z: 0}
+      rotation: {x: 0, y: 0, z: 0.7030213, w: -0.7111689}
+      length: 119.12302
       parentId: -1
     spriteOutline: []
     vertices:
@@ -43793,92 +43793,92 @@ ScriptedImporter:
       parentId: 0
     - name: "Pesco\xE7o"
       position: {x: 173.05981, y: -0.00005002651, z: 0}
-      rotation: {x: 0, y: 0, z: -0.0039705704, w: 0.99999213}
-      length: 63.17859
+      rotation: {x: 0, y: 0, z: -0.007753147, w: 0.99996996}
+      length: 93.61425
       parentId: 1
     - name: bone_4
-      position: {x: 63.178577, y: -0.000051517047, z: 0}
-      rotation: {x: 0, y: 0, z: 0.00000005728355, w: 1}
-      length: 146.95886
+      position: {x: 93.61431, y: 0.0002666583, z: 0}
+      rotation: {x: 0, y: 0, z: 0.006997232, w: 0.99997556}
+      length: 116.52731
       parentId: 2
     - name: Braco_Esquerdo
-      position: {x: -37.082516, y: -130.47774, z: 0}
-      rotation: {x: 0, y: -0, z: -0.9966917, w: 0.08127556}
-      length: 186.5059
+      position: {x: -25.442465, y: -103.14846, z: 0}
+      rotation: {x: 0, y: 0, z: -0.98882353, w: 0.1490911}
+      length: 205.77136
       parentId: 2
     - name: Antebraco_Esquerdo
-      position: {x: 186.50583, y: 0.00011614167, z: 0}
-      rotation: {x: 0, y: 0, z: -0.123625465, w: 0.99232894}
-      length: 113.03227
+      position: {x: 205.77135, y: -0.00009723788, z: 0}
+      rotation: {x: 0, y: 0, z: -0.19453351, w: 0.9808959}
+      length: 111.00217
       parentId: 4
     - name: Mao_Esquerda
-      position: {x: 113.03227, y: 0.0000853542, z: 0}
-      rotation: {x: 0, y: 0, z: -0.23769924, w: 0.97133887}
+      position: {x: 111.00224, y: 0.00010905937, z: 10}
+      rotation: {x: 0, y: 0, z: -0.2305662, w: 0.9730567}
       length: 66.6794
       parentId: 5
     - name: Braco_Direito
-      position: {x: -35.710026, y: 108.50201, z: 0}
-      rotation: {x: 0, y: -0, z: 0.9990816, w: 0.042847462}
-      length: 176.44888
+      position: {x: -29.103912, y: 83.66803, z: 0}
+      rotation: {x: 0, y: 0, z: 0.9950902, w: 0.09897257}
+      length: 194.38574
       parentId: 2
     - name: Antebraco_Direito
-      position: {x: 176.44876, y: -0.000093499155, z: 0}
-      rotation: {x: 0, y: 0, z: 0.048279386, w: 0.9988339}
-      length: 126.364426
+      position: {x: 194.3857, y: -0.00015563524, z: 0}
+      rotation: {x: 0, y: 0, z: 0.108466886, w: 0.9941001}
+      length: 119.123024
       parentId: 7
     - name: Mao_Direita
-      position: {x: 126.364426, y: 0.00014004187, z: 0}
-      rotation: {x: 0, y: 0, z: 0.2550278, w: 0.9669337}
+      position: {x: 119.12298, y: 0.000049658065, z: 0}
+      rotation: {x: 0, y: 0, z: 0.2547122, w: 0.96701694}
       length: 68.31419
       parentId: 8
     - name: Coxa_Direita
-      position: {x: -68.49583, y: 45.02817, z: 0}
-      rotation: {x: 0, y: -0, z: 0.9999997, w: 0.0007910291}
-      length: 247.50238
+      position: {x: -11.773522, y: 40.91934, z: 0}
+      rotation: {x: 0, y: -0, z: 0.9999727, w: 0.0073928917}
+      length: 304.25732
       parentId: 0
     - name: Perna_Direita
-      position: {x: 247.50233, y: -0.000040741263, z: 0}
-      rotation: {x: 0, y: 0, z: 0.022821603, w: 0.9997396}
-      length: 238.84862
+      position: {x: 304.25726, y: 0.00009542641, z: 0}
+      rotation: {x: 0, y: 0, z: 0.02942072, w: 0.99956715}
+      length: 238.84834
       parentId: 10
     - name: Pe_Direito_1
-      position: {x: 238.84859, y: -0.0000387906, z: 0}
-      rotation: {x: 0, y: 0, z: -0.098115675, w: 0.995175}
-      length: 20.276241
+      position: {x: 238.8483, y: -0.00007604546, z: 0}
+      rotation: {x: 0, y: 0, z: -0.09811523, w: 0.99517506}
+      length: 20.27624
       parentId: 11
     - name: Pe_Direito_2
-      position: {x: 20.276196, y: -0.000117051735, z: 0}
-      rotation: {x: 0, y: 0, z: -0.5416366, w: 0.84061277}
-      length: 58.440727
+      position: {x: 20.276327, y: -0.0000254533, z: 0}
+      rotation: {x: 0, y: 0, z: -0.5416358, w: 0.84061325}
+      length: 58.441013
       parentId: 12
     - name: Pe_Direito_3
-      position: {x: 58.440765, y: 0.000023610039, z: 0}
-      rotation: {x: 0, y: 0, z: -0.15385199, w: 0.988094}
+      position: {x: 58.441147, y: -0.000032430922, z: 0}
+      rotation: {x: 0, y: 0, z: -0.15385237, w: 0.9880939}
       length: 59.227776
       parentId: 13
     - name: Coxa_Esquerda
-      position: {x: -64.45376, y: -47.644505, z: 0}
-      rotation: {x: 0, y: -0, z: -0.99994266, w: 0.010712853}
-      length: 250.34448
+      position: {x: -11.768933, y: -50.567284, z: 0}
+      rotation: {x: 0, y: -0, z: -0.9999919, w: 0.0040263585}
+      length: 302.98047
       parentId: 0
     - name: Perna_Esquerda
-      position: {x: 250.34444, y: 0.00017037037, z: 0}
-      rotation: {x: 0, y: 0, z: 0.027186353, w: 0.9996304}
-      length: 245.5345
+      position: {x: 302.98044, y: 0.0004963404, z: 0}
+      rotation: {x: 0, y: 0, z: 0.033869617, w: 0.99942625}
+      length: 245.53424
       parentId: 15
     - name: Pe_Esquerdo_1
-      position: {x: 245.53452, y: 0.000018717954, z: 0}
-      rotation: {x: 0, y: 0, z: 0.015352739, w: 0.99988216}
-      length: 25.128286
+      position: {x: 245.53426, y: -0.000016123164, z: 0}
+      rotation: {x: 0, y: 0, z: 0.01534497, w: 0.9998823}
+      length: 25.128038
       parentId: 16
     - name: Pe_Esquerdo_2
-      position: {x: 25.128298, y: 0.00014181585, z: 0}
-      rotation: {x: 0, y: 0, z: -0.6908265, w: 0.7230206}
-      length: 69.92854
+      position: {x: 25.127998, y: -0.00005151982, z: 0}
+      rotation: {x: 0, y: 0, z: -0.69082063, w: 0.72302616}
+      length: 69.92855
       parentId: 17
     - name: Pe_Esquerdo_3
-      position: {x: 69.9285, y: 0.0000073910996, z: 0}
-      rotation: {x: 0, y: 0, z: -0.09357827, w: 0.99561197}
+      position: {x: 69.92851, y: 0.0000055777346, z: 0}
+      rotation: {x: 0, y: 0, z: -0.093577676, w: 0.995612}
       length: 47.38207
       parentId: 18
     parts:
