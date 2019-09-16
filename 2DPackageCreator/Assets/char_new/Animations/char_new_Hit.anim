@@ -1447,6 +1447,36 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
+    path: Coluna_1/Coxa_Esquerda/Perna_Esquerda
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: Coluna_1/Coxa_Esquerda/Perna_Esquerda
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: Coluna_1/Coxa_Esquerda/Perna_Esquerda
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
     path: Coluna_1/Coluna_2
     classID: 4
     script: {fileID: 0}
@@ -1477,7 +1507,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: IK_Braco_Esquerdo/IK_Braco_Esquerdo_Target
+    path: "Coluna_1/Coluna_2/Pesco\xE7o/Cabeca"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1487,7 +1517,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: IK_Braco_Esquerdo/IK_Braco_Esquerdo_Target
+    path: "Coluna_1/Coluna_2/Pesco\xE7o/Cabeca"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1497,7 +1527,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: IK_Braco_Esquerdo/IK_Braco_Esquerdo_Target
+    path: "Coluna_1/Coluna_2/Pesco\xE7o/Cabeca"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1537,7 +1567,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: IK_Braco_Direito/Braco_Direito_Target
+    path: IK_Braco_Esquerdo/IK_Braco_Esquerdo_Target
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1547,7 +1577,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: IK_Braco_Direito/Braco_Direito_Target
+    path: IK_Braco_Esquerdo/IK_Braco_Esquerdo_Target
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1557,7 +1587,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: IK_Braco_Direito/Braco_Direito_Target
+    path: IK_Braco_Esquerdo/IK_Braco_Esquerdo_Target
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1567,7 +1597,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: Coluna_1/Coxa_Esquerda/Perna_Esquerda
+    path: IK_Braco_Direito/Braco_Direito_Target
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1577,7 +1607,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: Coluna_1/Coxa_Esquerda/Perna_Esquerda
+    path: IK_Braco_Direito/Braco_Direito_Target
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1587,37 +1617,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: Coluna_1/Coxa_Esquerda/Perna_Esquerda
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.z
-    path: "Coluna_1/Coluna_2/Pesco\xE7o/Cabeca"
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.y
-    path: "Coluna_1/Coluna_2/Pesco\xE7o/Cabeca"
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.x
-    path: "Coluna_1/Coluna_2/Pesco\xE7o/Cabeca"
+    path: IK_Braco_Direito/Braco_Direito_Target
     classID: 4
     script: {fileID: 0}
   - curve:
