@@ -5,8 +5,8 @@ ScriptedImporter:
   externalObjects: {}
   serializedVersion: 2
   userData: 
-  assetBundleName: 
-  assetBundleVariant: 
+  assetBundleName: personagem
+  assetBundleVariant: player
   script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
   textureImporterSettings:
     alphaSource: 1
