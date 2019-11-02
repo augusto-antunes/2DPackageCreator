@@ -20,7 +20,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: -3.155, y: -1.993, z: 0}
+        value: {x: 0, y: -0.0236, z: 0}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -30,7 +30,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: 
+    path: Tocha
   m_ScaleCurves: []
   m_FloatCurves: []
   m_PPtrCurves:
@@ -108,7 +108,7 @@ AnimationClip:
     - time: 2.9166667
       value: {fileID: 21300000, guid: ca5830450cc4e3240ba49e0cf43377ea, type: 3}
     attribute: m_Sprite
-    path: 
+    path: Tocha
     classID: 212
     script: {fileID: 0}
   m_SampleRate: 12
@@ -119,14 +119,14 @@ AnimationClip:
   m_ClipBindingConstant:
     genericBindings:
     - serializedVersion: 2
-      path: 0
+      path: 3052715099
       attribute: 0
       script: {fileID: 0}
       typeID: 212
       customType: 23
       isPPtrCurve: 1
     - serializedVersion: 2
-      path: 0
+      path: 3052715099
       attribute: 1
       script: {fileID: 0}
       typeID: 4
@@ -195,7 +195,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: -3.155
+        value: 0
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -206,7 +206,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.x
-    path: 
+    path: Tocha
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -214,7 +214,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: -1.993
+        value: -0.0236
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -225,7 +225,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.y
-    path: 
+    path: Tocha
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -244,10 +244,10 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.z
-    path: 
+    path: Tocha
     classID: 4
     script: {fileID: 0}
   m_EulerEditorCurves: []
-  m_HasGenericRootTransform: 1
+  m_HasGenericRootTransform: 0
   m_HasMotionFloatCurves: 0
   m_Events: []
