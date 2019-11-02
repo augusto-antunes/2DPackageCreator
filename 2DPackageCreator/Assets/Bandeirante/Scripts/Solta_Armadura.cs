@@ -16,21 +16,23 @@ public class Solta_Armadura : MonoBehaviour
     public Transform solta_facao;
 
     // Start is called before the first frame update
-    void Start()
+    void Update()
     {
-        
+        Physics2D.IgnoreLayerCollision(8, 9, true);
     }
 
     public void SoltaArmadura()
     {
         Rigidbody2D armadura_solta = Instantiate(armadura, solta_armadura.transform.position, solta_armadura.transform.rotation);
-        if (transform.localScale.x == 1)
+        if (transform.localScale.x == -1)
         {
             armadura_solta.transform.localScale = new Vector3(1.0f , 1.0f , 1.0f);
+            //armadura_solta.AddForce(Vector2.left * 5);
         }
         else if (transform.localScale.x == -1)
         {
             armadura_solta.transform.localScale = new Vector3(-1.0f, 1.0f, 1.0f);
+            //armadura_solta.AddForce(Vector2.right * 5);
         }
     }
 

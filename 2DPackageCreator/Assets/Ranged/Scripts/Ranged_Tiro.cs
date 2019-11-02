@@ -4,12 +4,21 @@ using UnityEngine;
 
 public class Ranged_Tiro : MonoBehaviour
 {
-    public Rigidbody2D projetil;
+    private Transform braco;
+    private Vector2 p_Pos;
 
-    public Transform emissor;
-    public Transform braco;
+    [SerializeField]
+    private int vel;
 
-    public Transform player;
+    [SerializeField]
+    private Rigidbody2D projetil;
+
+    [SerializeField]
+    private Transform emissor;
+
+    [SerializeField]
+    private Transform player;
+
 
     private void Start()
     {
@@ -18,16 +27,16 @@ public class Ranged_Tiro : MonoBehaviour
 
     private void Update()
     {
-        Vector2 p_Pos = new Vector3(player.transform.position.x, player.transform.position.y);
+        p_Pos = new Vector3(player.transform.position.x, player.transform.position.y);
         braco.transform.right = p_Pos * -1;
 
     }
 
     public void Atira ()
     {
+        Vector2 dir = new Vector2(emissor.position.x, emissor.position.y);
         Rigidbody2D mao = Instantiate(projetil, emissor.position, emissor.rotation);
-        mao.AddForce(Vector2.left * 1000);
-        Object.Destroy(mao, 2.0f);
+        mao.AddForce(p_Pos.normalized * vel);
     }
 
 }
