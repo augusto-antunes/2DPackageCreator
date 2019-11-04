@@ -27,12 +27,10 @@ public class Solta_Armadura : MonoBehaviour
         if (transform.localScale.x == -1)
         {
             armadura_solta.transform.localScale = new Vector3(1.0f , 1.0f , 1.0f);
-            //armadura_solta.AddForce(Vector2.left * 5);
         }
         else if (transform.localScale.x == -1)
         {
             armadura_solta.transform.localScale = new Vector3(-1.0f, 1.0f, 1.0f);
-            //armadura_solta.AddForce(Vector2.right * 5);
         }
     }
 
