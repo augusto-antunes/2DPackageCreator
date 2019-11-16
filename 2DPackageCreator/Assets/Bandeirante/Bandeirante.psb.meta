@@ -10229,6 +10229,7 @@ ScriptedImporter:
   importedTextureHeight: 4096
   documentSize: {x: 3248, y: 4919}
   paperDollMode: 0
+  keepDupilcateSpriteName: 0
   spriteCategoryList:
     categories: []
   textureActualWidth: 4096
@@ -10511,6 +10512,7 @@ ScriptedImporter:
       spriteId: 813362c4228d1e245b1d965f691f5436
       bones: 15000000
       parentGroup: 0
+      order: 0
     - spritePosition:
         x: 0
         y: 1374
@@ -10519,6 +10521,7 @@ ScriptedImporter:
       spriteId: 6c6a954ed0d8522408d977ad6ac11011
       bones: 13000000
       parentGroup: 0
+      order: 0
     - spritePosition:
         x: 1895
         y: 2874
@@ -10527,6 +10530,7 @@ ScriptedImporter:
       spriteId: 6f29cd51e0b58a149b8cea3d56c0f5d5
       bones: 08000000
       parentGroup: 0
+      order: 0
     - spritePosition:
         x: 3248
         y: 4919
@@ -10535,6 +10539,7 @@ ScriptedImporter:
       spriteId: d3f79f9e53ae85c4bb8aae0023ccdbca
       bones: 
       parentGroup: 0
+      order: 0
     - spritePosition:
         x: 1255
         y: 4413
@@ -10543,6 +10548,7 @@ ScriptedImporter:
       spriteId: 92ddeb068e8b9d249a2d0691fb7a5ece
       bones: 16000000
       parentGroup: 0
+      order: 0
     - spritePosition:
         x: 1285
         y: 3973
@@ -10551,6 +10557,7 @@ ScriptedImporter:
       spriteId: e9a4936d4a6fe2e478615f495ee7507a
       bones: 04000000
       parentGroup: 0
+      order: 0
     - spritePosition:
         x: 3248
         y: 4919
@@ -10559,6 +10566,7 @@ ScriptedImporter:
       spriteId: 452ee03ce5062f246a37c509cb905e15
       bones: 
       parentGroup: 0
+      order: 0
     - spritePosition:
         x: 931
         y: 2494
@@ -10567,6 +10575,7 @@ ScriptedImporter:
       spriteId: 64b5d973dfec7604d9cfad3ad589e7be
       bones: 0000000003000000
       parentGroup: 0
+      order: 0
     - spritePosition:
         x: 1057
         y: 2494
@@ -10575,6 +10584,7 @@ ScriptedImporter:
       spriteId: 92f0c281fc75c8743b7bb071767f49f5
       bones: 00000000010000000200000003000000
       parentGroup: 0
+      order: 0
     - spritePosition:
         x: 819
         y: 2874
@@ -10583,6 +10593,7 @@ ScriptedImporter:
       spriteId: a3e800c87e52a4e40ba5aa4db2a547cd
       bones: 05000000
       parentGroup: 0
+      order: 0
     - spritePosition:
         x: 727
         y: 2072
@@ -10591,6 +10602,7 @@ ScriptedImporter:
       spriteId: c2c13134e383c944ba7095ea38e12abd
       bones: 07000000
       parentGroup: 0
+      order: 0
     - spritePosition:
         x: 884
         y: 2074
@@ -10599,6 +10611,7 @@ ScriptedImporter:
       spriteId: e21e38bd0bf899b4faba6bfde7bf230e
       bones: 07000000
       parentGroup: 0
+      order: 0
     - spritePosition:
         x: 2034
         y: 2080
@@ -10607,6 +10620,7 @@ ScriptedImporter:
       spriteId: cb8d56aecf72cb44798a15514c8b0a27
       bones: 0a000000
       parentGroup: 0
+      order: 0
     - spritePosition:
         x: 819
         y: 2366
@@ -10615,6 +10629,7 @@ ScriptedImporter:
       spriteId: b652f7fdb7708634e8cb993abe897af6
       bones: 06000000
       parentGroup: 0
+      order: 0
     - spritePosition:
         x: 2202
         y: 2369
@@ -10623,6 +10638,7 @@ ScriptedImporter:
       spriteId: 07a61d6fd95a0094ab804d3afef6e45e
       bones: 09000000
       parentGroup: 0
+      order: 0
     - spritePosition:
         x: 1779
         y: 149
@@ -10631,6 +10647,7 @@ ScriptedImporter:
       spriteId: 0eb75795a8f756d40921f1208bdac760
       bones: 10000000
       parentGroup: 0
+      order: 0
     - spritePosition:
         x: 1451
         y: 0
@@ -10639,6 +10656,7 @@ ScriptedImporter:
       spriteId: 15473c78760e7304b9459912bca3ffd3
       bones: 1200000011000000
       parentGroup: 0
+      order: 0
     - spritePosition:
         x: 1262
         y: 149
@@ -10647,6 +10665,7 @@ ScriptedImporter:
       spriteId: 7045ca77a59dd5e4c8138e8215970dbd
       bones: 0c000000
       parentGroup: 0
+      order: 0
     - spritePosition:
         x: 958
         y: 0
@@ -10655,6 +10674,7 @@ ScriptedImporter:
       spriteId: c0df9d89089b66a4ea92fa96ac077481
       bones: 0e0000000d000000
       parentGroup: 0
+      order: 0
     - spritePosition:
         x: 1195
         y: 1154
@@ -10663,6 +10683,7 @@ ScriptedImporter:
       spriteId: b72da68204775464fa54402ed62b17ed
       bones: 0b000000
       parentGroup: 0
+      order: 0
     - spritePosition:
         x: 1619
         y: 1100
@@ -10671,6 +10692,7 @@ ScriptedImporter:
       spriteId: 9cecce2a310b6854abc5dcadfabbbf7d
       bones: 0f000000
       parentGroup: 0
+      order: 0
     dimension: {x: 0, y: 0}
     characterGroups: []
   boneGOs:
@@ -10723,4 +10745,4 @@ ScriptedImporter:
   generateGOHierarchy: 0
   textureAssetName: Bandeirante
   prefabAssetName: Bandeirante_GO
-  spriteLibAssetName: 
+  spriteLibAssetName: Bandeirante Sprite Lib
